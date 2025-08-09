@@ -2,8 +2,13 @@
 
 exports[`App component > renders magnificent monkeys 1`] = `
 <div>
+  <button
+    type="button"
+  >
+    Click Me
+  </button>
   <h1>
-    Our First Test
+    Magnificent Monkeys
   </h1>
 </div>
 `;
